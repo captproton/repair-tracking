@@ -1,0 +1,27 @@
+{
+  "name": "repair-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captproton/repair-tracking.git"
+  },
+  "keywords": [
+    "adibot"
+  ],
+  "author": "captproton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/captproton/repair-tracking/issues"
+  },
+  "homepage": "https://github.com/captproton/repair-tracking#readme"
+}
